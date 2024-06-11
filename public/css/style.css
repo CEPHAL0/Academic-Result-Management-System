@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Switzer-Variable', Arial, sans-serif;
+    
+}
+
+.login_background {
+    background: rgba(0, 0, 0, .65) url("../assets/images/background.jpg");
+    background-size: cover;
+    background-blend-mode: darken;
+    height: 100vh;
+    width: 100vw;
+    overflow: hidden;
+}
+
+.hide-scrollbar::-webkit-scrollbar {
+    display: none;
+}
+
+.hide-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
