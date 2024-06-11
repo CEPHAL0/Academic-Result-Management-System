@@ -1,6 +1,6 @@
 # ARMS - Academic Result Management System
 
-ARMS is a academic result management system developed by the Digital Media Team. Built with Laravel10 and MySQL. This system was designed to be used by Deerwalk Sifal School. It assists the teachers and admins to track the marks of each student and
+ARMS is a academic result management system built with Laravel10 and MySQL. This system was designed to be used by Deerwalk Sifal School. It assists the teachers and admins to track the marks of each student and
 also provides marksheet generation of each student.
 
 
